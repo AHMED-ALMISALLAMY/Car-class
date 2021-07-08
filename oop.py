@@ -17,4 +17,5 @@ class Car:
 # create object
 car_1 = Car("BMW",2017,200000,"blue")
 
+# Run method
 car_1.run()
